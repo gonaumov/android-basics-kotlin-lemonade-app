@@ -1,3 +1,15 @@
+# Lemonade app
+
+This is my implementation of
+[Lemonade app project](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade)
+According the [last step](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-four%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-lemonade#7) we need to share our developed application. 
+[Here](https://www.tiktok.com/@georgenaumov915/video/7042122169811291398) you can see a demonstration video. 
+
+## Here you can see a screenshots of the application: 
+|![emty](screenshots/emty.png)|![juice](screenshots/juice.png)|
+|![juice status](screenshots/juice_status.png)|![lemonade](screenshots/lemonade.png)|
+|![start](screenshots/start.png)|
+
 Project: Lemonade App - Starter Code
 ==================================
 
